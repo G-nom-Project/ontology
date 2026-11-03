@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier
+_commit: v0.5.0
+_src_path: https://github.com/linkml/linkml-project-copier
+add_example: true
+copyright_year: '2026'
+email: luc.koch@bio.uni-frankfurt.de
+existing_license_file: ''
+full_name: Lucas Koch
+gh_action_docs_preview: true
+gh_action_pypi: false
+github_org: G-nom-Project
+license: MIT
+project_description: Ontology used by G-nom's RDF triple store.
+project_name: g-nom_ontology
+project_slug: g_nom_ontology
+
