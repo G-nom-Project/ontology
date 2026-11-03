@@ -1,8 +1,20 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/G-nom-Project/g-nom/blob/main/public/images/gnom.png?raw=true" width="200" alt="Laravel Logo"></a></p>
+<p align="center">
+<a href="https://www.w3.org/RDF/"><img src="https://www.w3.org/Icons/SW/Buttons/sw-rdf-green-v.svg" alt="RDF Badge" height="20"></a>
+<a href="https://www.w3.org/RDF/"><img src="https://www.w3.org/Icons/SW/Buttons/sw-sparql-green-v.svg" alt="SPARPQL Badge" height="20"></a>
 <a href="https://github.com/linkml/linkml-project-copier"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-teal.json" alt="Copier Badge" style="max-width:100%;"/></a>
+</p>
 
-# g-nom_ontology
 
-Ontology used by G-nom's RDF triple store.
+# G-nom Ontology
+
+G-nom is a software for the storage, visualization and linking of genome assemblies and associated analyses with SPARQL and AI integrations.
+The G-nom Ontology describes the underlying schema of the knowledge graph linking data within a G-nom instance. This schema is constantly updated as the scope of data types supported by G-nom expands. 
+
+
+
+
+
 
 ## Documentation Website
 
